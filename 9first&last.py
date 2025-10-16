@@ -1,7 +1,10 @@
 user_input = input("Enter a string: ")
 
 if len(user_input) < 2:
+<<<<<<< HEAD
     # No swap possible
+=======
+>>>>>>> f83e977 (16-10-25 change)
     result = user_input
 else:
     first_char = user_input[0]
